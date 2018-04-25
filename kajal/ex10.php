@@ -1,0 +1,18 @@
+<?php
+
+	$str1="Bootstrap is an open source toolkit for developing with HTML,CSS & JS";
+
+	echo($str1);
+
+	echo "<br>";
+
+	echo substr($str1,5,25);
+
+	echo "<br>";
+
+	echo substr($str1,-20);
+
+	echo "<br>";
+
+	echo substr($str1,5,-20);
+?>
