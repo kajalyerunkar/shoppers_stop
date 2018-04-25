@@ -1,0 +1,78 @@
+.contact{/*border:1px solid;*/background:#000;letter-spacing:2px;color:#fff;padding:10px 0;text-transform:uppercase;
+font-family: halvetica;font-size:30px}
+.menu_list{overflow: auto}
+.menu_list li{list-style:none;float:left;}
+.menu_list a{text-decoration: none;text-transform: capitalize;display:block;padding:0 20px;color:#ccc;
+	margin-top:15px }
+.txt{padding-left:5px;height:32px;color:#ccc;border:1px solid;width: 80%}
+.menus .col-md-3{padding:10px 0;}
+.look{border:1px solid;background:#000;color:#fff;padding:10px 0;}
+.offer p{background:#000;color:#fff;padding:10px 0;border:1px solid;margin:30px 0;}
+.product h2{font-size:26px;padding-top: 10px;margin-bottom: 35px}
+/*.product .pro_img{margin-bottom: 55px;/*cursor:pointer;}*/
+.hottest_trends h2{text-transform:uppercase;margin-top:45px;font-size:26px}
+.hottest_trends p{font-size:14px;color:#c1c1c1;margin-top:5px;}
+.hottest_trends .col-md-3{margin:40px 0;}
+.hottest_trends img{border-bottom:2px solid #eee;}
+.after8collection img{padding-top: 20px;overflow:auto}
+.the_499_corner img{margin-top:50px;overflow:auto}
+.the_499_corner ,.freshly_picked ,.deals_u_cannot_miss h2{text-transform:uppercase;margin-top:50px;
+	font-size:26px}
+.freshly_picked img{margin-top: 50px;}
+.deals_u_cannot_miss img{margin-top:20px;/*border: 1px solid ;*/}
+.deals_u_cannot_miss{overflow:auto;}
+
+.footer_01{background:#c3c3c3;color:#fff;padding:20px 0;font-size:30px;
+	text-transform: capitalize;font-family: 'Dancing Script', cursive;}
+.footer_02{background: #f9f9fa;/*border:1px solid;*/overflow: auto;padding-top: 30px;
+padding-bottom: 30px}
+.footer_02 p{text-transform: uppercase;font-size: 14px;letter-spacing: 1px;
+color: #615a5a;padding-bottom: 15px}
+.footer_02 .Email{padding: 5px ;padding-right:180px;text-transform: uppercase;/*border:1px solid;*/}
+.footer_02 .subscribe{padding: 5px 20px;text-transform: uppercase;color: #f94c4c;
+background:#fdeaea;border:1px solid #dc8e8e;}
+
+.footer_03{overflow: auto;/*border: 1px solid;*/padding-bottom: 30px;padding-top: 25px;}
+/*.footer_03 .img_size{height: 40px;width: 40px;}*/
+.footer_03 .col-md-4 p{font-size: 11px;color: #bbb;padding-top: 10px}
+.tollFree{font-size: 14px;color: gray}
+.footer_03 h5{font-weight: bold;text-transform: uppercase;color: #6f6b6b;
+padding-bottom:10px}
+.footer_03 a{color: red;padding-top: 10px}
+/*.footer_03 .border_right{border: 1px solid lightgray;overflow: auto;}*/
+/*.footer_03 .col-md-2{overflow: auto;}*/
+.bank_offers{overflow: auto;margin-bottom: 15px;}
+.bank_offers h2{padding:35px 0;text-transform: uppercase;font-size:25px}
+.footer_04{background: black;overflow: auto;padding: 30px 0;}
+.footer_04 li{list-style: none;}
+.footer_04 .headings{color: #fff;font-size: 14px;padding-bottom: 20px}
+.footer_04 p{font-size: 12px;color: gray;text-transform: uppercase;padding-bottom: 5px}
+.lower_footer_04{color: white;overflow: auto;padding-top: 20px;}
+.upper_footer_04{overflow: auto;padding-bottom: 30px;border-bottom: 1px solid #4e4b4b}
+.lower_footer_04 li{float: right;}
+.lower_footer_04 li{overflow: auto;}
+.lower_footer_04 p{color: white;font-size: 10px}
+
+.menu_list_contents{border:1px solid #eeeeee;padding:10px;margin-bottom: 20px;}
+
+.blackbox{height:290px;width:290px;z-index:10;background: rgba(0,0,0,0.5);position:absolute;
+bottom: 0;top:0;}
+.blackbox h5{text-transform:uppercase;font-size: 26px;padding-top:50%;color: #fff}
+.product .pro_img{position:relative;overflow: hidden}
+/*.product .new_pro{position:relative;}*/
+
+.banner{position:relative;overflow:hidden;}
+.tab_menu{position:absolute;z-index: 10;background:#fff;color:#000;}
+
+
+.gallery{position:relative;}
+.circles{/*border:1px solid;*//*background:#eee;*/position:absolute;bottom:20px;
+width:100%;z-index:9;text-align: center;padding:20px 0;}
+.circles span{background:#f1f1f1;width:30px;height:30px;border-radius:50%; display:inline-block;
+cursor:pointer; }
+.circles span:first-child{background:#c1c1c1; }
+
+.left_arrow{/*border:1px solid;*/width:64px;height:64px;position:absolute;left:5%;
+top:40%;cursor:pointer;}
+.right_arrow{/*border:1px solid;*/width:64px;height:64px;position:absolute;right:5%;
+top:40%;cursor:pointer;}
