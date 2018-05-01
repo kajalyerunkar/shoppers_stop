@@ -25,7 +25,7 @@
 //object-> member (->accessor,=>associative operator)
 
 
- 	//MYSQL_NUM,MYSQLI_ASSOC,MYSQLI_BOTH
+ 	//MYSQLI_NUM,MYSQLI_ASSOC,MYSQLI_BOTH
  	//fetch_object(),fetch_array
  	while($ans=$result->fetch_object())
  	{
