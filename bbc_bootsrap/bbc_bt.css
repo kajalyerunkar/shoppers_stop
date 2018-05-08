@@ -1,0 +1,52 @@
+
+@media screen and (min-width:992px){
+		.menu{width: 100%;}
+		.menu .container-fluid{padding-right: 0px;padding-left: 0px}
+		.navbar-default{background-color:#000;padding-left: 15px;padding-right: 15px}
+		.india h3{font-size:150%;text-transform: capitalize;color:#000;font-weight:bold;}
+		.india p{font-size:120%;padding:2% 0;color:#4a4a4a;}
+		.india a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
+		.india h2{padding-left:1%;border-left:2px solid red;color:#4a4a4a;font-weight:bold;font-size:180%;}
+
+		.sport h3{font-size:150%;text-transform: capitalize;color:#000;font-weight:bold;}
+		.sport p{font-size:120%;padding:2% 0;color:#4a4a4a;}
+		.sport a{padding-left:2%;border-left:2px solid yellow;font-size:90%;color:#000;}
+		.sport h2{padding-left:1%;border-left:2px solid yellow;color:#4a4a4a;font-weight:bold;font-size:180%;}
+		.big_pic h3{font-size:155%;color:#000;font-weight:bold;}
+		.big_pic h2{font-weight:bold;font-size:180%;color:#4a4a4a;}
+		.big_pic a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
+}
+
+
+@media screen and (max-width:480px){
+		
+	.navbar-default{background-color:#000;}
+	.menu{background:#000 }
+	.menu .container{margin-top: 0;margin-bottom: 0}
+	.menu .container nav{margin-bottom: 0}
+	.navbar-default{background-color:#000;border-color: #000}
+
+	.india h3{font-size:110%;text-transform: capitalize;color:#000;font-weight:bold;margin-bottom:2%}
+	.india p{font-size:90%;padding:1% 0;color:#4a4a4a;}
+	.india a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
+	.india h2{padding-left:1%;border-left:2px solid red;color:#4a4a4a;font-weight:bold;font-size:140%;}
+
+	.sport h3{font-size:110%;text-transform: capitalize;color:#000;font-weight:bold;margin-bottom:2%}
+	.sport p{font-size:90%;padding:1% 0;color:#4a4a4a;}
+	.sport a{padding-left:2%;border-left:2px solid yellow;font-size:90%;color:#000;}
+	.sport h2{padding-left:1%;border-left:2px solid yellow;color:#4a4a4a;font-weight:bold;font-size:140%;}
+	.big_pic h2{font-weight:bold;font-size:130%;color:#4a4a4a;}
+	.big_pic a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
+	.big_pic h3{font-size:115%;color:#000;font-weight:bold;margin-bottom:2%}
+
+}
+
+@media screen (min-width:481px) and (max-width:767px){
+/*		.navbar-default{background-color:#000;}*/
+.menu{background:#000 }
+	.menu .container{margin-top: 0;margin-bottom: 0}
+	.menu .container nav{margin-bottom: 0}
+	.navbar-default{background-color:#000;border-color: #000}
+
+
+}
