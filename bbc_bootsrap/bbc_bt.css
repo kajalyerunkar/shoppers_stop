@@ -15,6 +15,17 @@
 		.big_pic h3{font-size:155%;color:#000;font-weight:bold;}
 		.big_pic h2{font-weight:bold;font-size:180%;color:#4a4a4a;}
 		.big_pic a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
+
+	.top_list_heading{text-transform:uppercase;color:#fff;background:#e91802;padding:2% 2%;
+		margin-bottom:0 ;font-size:16px }
+	.list_odd, .list_even{list-style:none;text-decoration:none;padding:4% 10%;}
+	.list_even{background:#252525;}
+	.list_odd{background:#363636;}
+	.top_list_data{color:#ccc;margin-left:20%;display:block;cursor:pointer;font-size:160%}
+	.top_list_list{padding-left:0;}
+	.top_list_bullet{display:block;border-radius:20px;height:40px;width:40px;background:#e91802;
+	color:#fff;position: absolute;text-align:center;margin-top:5%}
+	.editor .col-md-8 .editor_first img{width:100%;}
 }
 
 
@@ -38,6 +49,17 @@
 	.big_pic h2{font-weight:bold;font-size:130%;color:#4a4a4a;}
 	.big_pic a{padding-left:2%;border-left:2px solid red;font-size:90%;color:#000;}
 	.big_pic h3{font-size:115%;color:#000;font-weight:bold;margin-bottom:2%}
+
+	.top_list_heading{text-transform:uppercase;color:#fff;background:#e91802;padding:2% 2%;
+		font-size:16px;margin-bottom:0 }
+	.list_odd, .list_even{list-style:none;text-decoration:none;padding:4% 10%;}
+	.list_even{background:#ccc;}
+	.list_odd{background:#fff;}
+	.top_list_data{color:#000;margin-left:20%;display:block;cursor:pointer;font-size:115%}
+	.top_list_list{padding-left:0;border:1px solid red;}
+	.top_list_bullet{display:block;border-radius:20px;height:40px;width:40px;background:#e91802;
+	color:#fff;position: absolute;text-align:center;margin-top:5%}
+	.editor .col-md-8 .editor_first img{width:100%;}
 
 }
 
